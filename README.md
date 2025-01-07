@@ -39,7 +39,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,arch,debian,kali,mint,ubuntu,raspberrypi,c,cpp,java,py,js,php,html,css,git,github,arduino,atom,bash,npm,sqlite,vite,jquery,laravel,nodejs,postman,vscode,nginx,mongodb,mysql,supabase,postgres,mongodb,mysql,sqlite,powershell,aws,md,gmail,instagram,linkedin,stackoverflow,discord&perline=15" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,arch,debian,kali,mint,ubuntu,raspberrypi,c,cpp,java,py,js,php,html,css,git,github,arduino,atom,bash,npm,vite,jquery,laravel,nodejs,postman,vscode,nginx,mysql,supabase,postgres,mongodb,sqlite,powershell,aws,md,gmail,instagram,linkedin,stackoverflow,discord&perline=14" />
   </a>
 </p>
 
